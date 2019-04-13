@@ -1,4 +1,4 @@
-# card-swipe-gellry
+# card-swipe-gallery
 
 Card Swipe Gallery
 
