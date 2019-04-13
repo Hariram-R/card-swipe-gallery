@@ -1,6 +1,6 @@
-# app27
+# card-swipe-gellry
 
-App #27
+Card Swipe Gallery
 
 ## Getting Started
 
